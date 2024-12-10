@@ -38,5 +38,19 @@
         "path": "week2/1733870520534-01922_eng.pdf"
       }
     ]
+  },
+  {
+    "week": 3,
+    "title": "Week 3",
+    "keywords": [],
+    "materials": [
+      {
+        "title": "1710679535_dd18130ec1d1d553990d630fd8265c3f_b2d1ddaa7a064b4f9540b040c0a30890206cbc4b.pdf",
+        "type": "pdf",
+        "viewLink": "https://raw.githubusercontent.com/peacdo/hci-portal-resources/main/week3/1733872677227-1710679535_dd18130ec1d1d553990d630fd8265c3f_b2d1ddaa7a064b4f9540b040c0a30890206cbc4b.pdf",
+        "downloadLink": "https://raw.githubusercontent.com/peacdo/hci-portal-resources/main/week3/1733872677227-1710679535_dd18130ec1d1d553990d630fd8265c3f_b2d1ddaa7a064b4f9540b040c0a30890206cbc4b.pdf",
+        "path": "week3/1733872677227-1710679535_dd18130ec1d1d553990d630fd8265c3f_b2d1ddaa7a064b4f9540b040c0a30890206cbc4b.pdf"
+      }
+    ]
   }
 ]
