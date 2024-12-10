@@ -1,8 +1,10 @@
 [
   {
     "week": 1,
-    "title": "Week 1",
-    "keywords": [],
+    "title": "Test",
+    "keywords": [
+      "test"
+    ],
     "materials": [
       {
         "title": "2. Senior Social Media Manager - resume dosyasının kopyası.docx",
